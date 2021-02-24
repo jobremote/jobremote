@@ -5,10 +5,10 @@ Uma pessoa que acredita que o crescimento é ilimitado!
 
 - Atualmente estudando Desenvolvimento FullStack;
 - Graduado na FATEC-SP em Mecanica de Precisão - Modalidade Projetos;
-- Criador e produtor da [Nogas Produções] (https://www.instagram.com/nogas_producoes/?hl=pt-br);
-- Músico nas horas vagas... *Check this out:* [Job Remote] (https://www.instagram.com/jobremoteoficial/?hl=pt-br).
+- Criador e produtor da [Nogas Produções](https://www.instagram.com/nogas_producoes/?hl=pt-br);
+- Músico nas horas vagas... *Check this out:* [Job Remote](https://www.instagram.com/jobremoteoficial/?hl=pt-br).
 
-Para saber mais sobre mim, você pode me encontrar no [LinkedIn] (https://www.linkedin.com/in/leonardo-nogueira-souza-761976b0/) e no [Instagram] (https://www.instagram.com/nogas_leonardo/?hl=pt-br)
+Para saber mais sobre mim, você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/leonardo-nogueira-souza-761976b0/) e no [Instagram](https://www.instagram.com/nogas_leonardo/?hl=pt-br)
 
 ### Nogas Produções
 - [Website](https://nogasproducoes.com.br/) -> Ainda trabalhando nele :)
